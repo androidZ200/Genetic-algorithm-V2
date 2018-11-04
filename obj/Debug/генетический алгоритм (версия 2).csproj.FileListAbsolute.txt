@@ -1,0 +1,11 @@
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\bin\Debug\генетический алгоритм (версия 2).exe.config
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\bin\Debug\генетический алгоритм (версия 2).exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\bin\Debug\генетический алгоритм (версия 2).pdb
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический алгоритм (версия 2).csprojAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический_алгоритм__версия_2_.FormMain.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический_алгоритм__версия_2_.Properties.Resources.resources
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический алгоритм (версия 2).csproj.GenerateResource.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический алгоритм (версия 2).csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический алгоритм (версия 2).exe
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический алгоритм (версия 2).pdb
+C:\Users\Даниил\Documents\Visual Studio 2017\Projects\генетический алгоритм (версия 2)\генетический алгоритм (версия 2)\obj\Debug\генетический_алгоритм__версия_2_.FormOptions.resources
